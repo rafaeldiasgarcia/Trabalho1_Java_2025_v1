@@ -17,7 +17,6 @@ public class ex18 {
 
         boolean cargoValido = false;
 
-
         for (int i = 0; i < cargos.length; i++) {
             if (cargos[i] == cargo) {
                 aumento = salario * percentuais[i];
